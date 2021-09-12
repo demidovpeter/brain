@@ -1,4 +1,4 @@
-##Brainence
+## Brainence
 
 Implementation of test task on React Native.
 ```angular2html
@@ -18,7 +18,7 @@ Product entity:
     Price
 ```
 
-###Specs
+### Specs
 ```angular2html
 react 17
 react-native 0.65
@@ -27,16 +27,18 @@ npm 6.14
 yarn 1.22
 ```
 
-###Install
+### Install
 
 From project root run:
 
-####Android
+#### Android
 
 ```angular2html
 react-native run-android
 ```
-####iOS
+#### iOS
 ```angular2html
 react-native run-ios
 ```
+
+![rn_preview](https://user-images.githubusercontent.com/34139107/132985039-94500d69-ca97-47cd-bafa-5acf310a9aa6.gif)
