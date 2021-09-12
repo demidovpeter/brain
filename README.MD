@@ -28,8 +28,15 @@ yarn 1.22
 ```
 
 ###Install
+
 From project root run:
+
 ####Android
-`react-native run-android`
+
+```angular2html
+react-native run-android
+```
 ####iOS
-`react-native run-ios`
+```angular2html
+react-native run-ios
+```
