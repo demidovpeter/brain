@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "ASRock H310CM-HDV LGA 1151 (300 Series)",
+    "description": "Supports 9th and 8th Gen Intel Core Processors (Socket 1151)",
+    "price": 55
+  },
+  {
+    "id": 2,
+    "name": "ASUS Pro WS WRX80E-SAGE SE WIFI sWRX8 AMD WRX80 SATA 6Gb/s Extended ATX AMD Motherboard",
+    "description": "AMD WRX80 Ryzen™ Threadripper™ PRO extended-ATX workstation motherboard with Intel dual 10G LAN, USB 3.2 Gen 2x2 Type-C port, 7 x PCIe 4.0 x16 slots, 3 x M.2 PCIe 4.0, ASMB9-iKVM, 2 x U.2 and 16 power stages",
+    "price": 980
+  },
+  {
+    "id": 3,
+    "name": "MSI Suprim GeForce RTX 3080 10GB GDDR6X PCI Express 4.0 Video Card RTX 3080 SUPRIM X 10G",
+    "description": "If you have the space and the ventilation, this is the best 3080 you can buy.",
+    "price": 1970
+  }
+]
