@@ -17,7 +17,7 @@ const mapState = (state: RootState) => ({
     items: state.items.items,
     pinnedId: state.items.pinnedId
 })
-const test = 2222
+
 const mapDispatch = {
     setPinnedItemThunk,
     deleteItemThunk
